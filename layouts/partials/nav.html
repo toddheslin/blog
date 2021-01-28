@@ -2,10 +2,10 @@
 <nav>
   {{ partial "header.html" . }}
   <div class="nav-menu">
-    {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-    <a class="color-link nav-link {{ if or (eq $currentPage.URL .URL) ($currentPage.HasMenuCurrent " main" .) }}
-      active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{ $active := eq $.RelPermalink (.URL | relLangURL) }}
+    {{ $active = or $active (eq $.Section (lower .Name)) }}
+    <a href="{{ .URL | relLangURL }}" class="color-link nav-link {{ if $active }}active{{ end }}">{{ .Name }}</a>
     {{ end }}
     <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener"
       type="application/rss+xml">RSS</a>

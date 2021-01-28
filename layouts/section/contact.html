@@ -8,8 +8,7 @@
   {{ .Content }}
 </section>
 
-<form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success"
-  netlify-recaptcha netlify>
+<form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks" netlify>
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
@@ -23,12 +22,9 @@
     <input name="email" type="email" required />
   </p>
   <p>
-    <label for="message">Your Message</label>
+    <label for="message">Message</label>
     <textarea name="message" required></textarea>
   </p>
-  <!-- <p>
-  <div class="g-recaptcha" data-sitekey="6LeSj2kUAAAAAJmMuzPbrNGlfgKUp4ylYTxcwr0v"></div>
-  </p> -->
   <p>
     <button type="submit" value="Submit">Send</Button>
   </p>
