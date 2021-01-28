@@ -8,11 +8,11 @@
   {{ .Content }}
 </section>
 
-<form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks" netlify>
+<form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks">
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
-  <input type="hidden" name="form-name" value="contact" />
+  <input type="hidden" name="form-name" value="contact-form" />
   <p>
     <label for="name">Name</label>
     <input name="name" type="text" required />
