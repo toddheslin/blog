@@ -23,7 +23,7 @@ disqusShortname = ""
     unsafe = true
 
 [params]
-	math = true
+	math = false
 	# Blog description at the top of the homepage. Supports markdown.
 	description = "I'm Todd, a full stack web developer living in Wellington, New Zealand. I build tools and apps for the web, mostly using Vue, Node, and Hasura. Check my setup [here](/uses)."
   showReadMore = false
