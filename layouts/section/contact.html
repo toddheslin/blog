@@ -1,0 +1,39 @@
+{{ define "main" }}
+<!-- All of the site's posts grouped by year -->
+<h1>
+  {{ .Title }}
+</h1>
+
+<section>
+  {{ .Content }}
+</section>
+
+<form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success"
+  netlify-recaptcha netlify>
+  <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
+  <input type="hidden" name="form-name" value="contact" />
+  <p>
+    <label for="name">Name</label>
+    <input name="name" type="text" required />
+  </p>
+  <p>
+    <label for="email">E-Mail</label>
+    <input name="email" type="email" required />
+  </p>
+  <p>
+    <label for="message">Your Message</label>
+    <textarea name="message" required></textarea>
+  </p>
+  <!-- <p>
+  <div class="g-recaptcha" data-sitekey="6LeSj2kUAAAAAJmMuzPbrNGlfgKUp4ylYTxcwr0v"></div>
+  </p> -->
+  <p>
+    <button type="submit" value="Submit">Send</Button>
+  </p>
+</form>
+
+<div class="page-footer"></div>
+
+{{ end }}
