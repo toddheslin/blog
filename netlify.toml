@@ -1,3 +1,6 @@
+[[plugins]]
+package = "netlify-plugin-debug-cache"
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
