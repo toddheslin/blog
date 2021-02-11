@@ -20,12 +20,12 @@ disqusShortname = ""
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
-    unsafe = true
+  unsafe = true
 
 [params]
 	math = false
 	# Blog description at the top of the homepage. Supports markdown.
-	description = "I'm Todd, a full stack web developer living in Wellington, New Zealand. I build tools and apps for the web, mostly using Vue, Node, and Hasura. Check my setup [here](/uses)."
+	description = "I'm Todd, a full stack web developer living in Wellington, New Zealand. I build tools and apps for the web, mostly using Vue, Node, and Hasura. Check my setup [here](/uses) and follow me on Github [here](https://github.com/toddheslin)."
   showReadMore = false
 
   # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.

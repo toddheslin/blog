@@ -4,23 +4,27 @@ title: "25 insights from Seth Godin's Startup School"
 category: "Entrepreneurship"
 ---
 
-This podcast, although unedited and unpolished, is an extraordinary insight into Seth's thoughts about startups. Seth's welcome message sums up the purpose of the three-day workshop, with featured content within the five-hour podcast.
-
-Seth's welcome message:
+This podcast, although unedited and unpolished, is an extraordinary insight into Seth's thoughts about startups. His welcome message sums up the purpose of the three-day workshop, with featured content within the five-hour podcast.
 
 > *In the summer of 2012, I had an amazing opportunity to spend three days with a group of extremely motivated entrepreneurs. People right at the beginning of building their project, launching their organization. During those three days, I took them on a guided tour of some of the questions they were going to have to wrestle with, some of the difficult places they were going to strand up and say "this is me, this is what I'm making".*
 
 ### Decide whether you'll be a freelancer or an entrepreneur
 
-The distinction is critical because the emotional cost is high if you think you're one type and act like the other. In its simplest form, a freelancer rents themselves out to someone else to perform valuable emotional labour, whereas an entrepreneur organizes resources (people, connections, capital, time) to build something bigger than themselves.
+The distinction is critical because the emotional cost is high if you think you are one type and act like the other. In its simplest form, a freelancer rents themselves out to someone else to perform valuable emotional labour, whereas an entrepreneur organizes resources (people, connections, capital, time) to build something bigger than themselves.
+
+I personally use a combination of both, and have done so for 10 years.
 
 ### Marketing is telling a story about the value you create for people
 
-There is an art and science to marketing. There are courses, books and consultants who teach the science (4-P's, market segmentation….yada…yada…yada). However no matter the execution, if the story doesn't resonate with the tribe you're connecting with there will be no transfer of emotion. They will feel nothing, they won't respond, you'll be ignored. Perhaps this happens when we try market to the masses instead of selecting our tribe. It's easy to ignore someone you walk by in the middle of Sydney, but much harder if it's in Antarctica.
+There is an art and science to marketing. There are courses, books and consultants who teach the science (4-P's, market segmentation….yada…yada…yada). However no matter the execution, if the story doesn't resonate with the tribe you're connecting with there will be no transfer of emotion. They will feel nothing, they won't respond, you'll be ignored.
+
+Perhaps this happens when we try market to the masses instead of selecting our tribe. It's easy to ignore someone you walk by in the middle of Sydney, but much harder if it's in Antarctica.
 
 ### If you're in B2B sales, your prospect only has one decision to make: "Would this purchase deliver a good story to please my boss? or will I get fired?"
 
-I've been on both ends of the conversation: the buyer and the seller. This was something that I never realised and is an incredible insight into where you should focus your time. As someone with a story to tell to another business, you can get that message to CEOs, VPs and middle managers through different channels. You can't ring up the CEO and pitch an idea like you could do with a middle manager. However you can equally build trust in the organization with an investment of time to work out the networking events where these CEOs and VPs meet up. Buy a few minutes of stage time to simply tell your story and don't even think of selling anything on that night.
+I've been on both ends of the conversation: the buyer and the seller.
+
+This was something that I never realised and is an incredible insight into where you should focus your time. As someone with a story to tell to another business, you can get that message to CEOs, VPs and middle managers through different channels. You can't ring up the CEO and pitch an idea like you could do with a middle manager. However you can equally build trust in the organization with an investment of time to work out the networking events where these CEOs and VPs meet up. Buy a few minutes of stage time to simply tell your story and don't even think of selling anything on that night.
 
 Now you've got the ability to say to the manager *"Why don't you have a chat to the VP or CEO, they've heard me tell this story before."* If you're bad at story telling, you didn't build trust with the audience or they don't have the problem that you can solve, you're not going to get any further. However you'll be able to control the process if you're respecting the hierarchy and putting the story before your pitch.
 
