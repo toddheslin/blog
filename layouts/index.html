@@ -13,7 +13,7 @@
 
   <!-- Range over the pages and only include the ones that are a post type -->
   {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-  {{ range (.Paginate $pages).Pages }}
+  {{ range where (.Paginate $pages).Pages ".Draft" false}}
   <article>
     <h2>
       <a href="{{ .Permalink }}">
